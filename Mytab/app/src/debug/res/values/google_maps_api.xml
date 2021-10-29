@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=3B:83:F2:72:A3:60:B2:B9:87:28:DF:44:CE:DB:66:84:94:1B:69:AD%3Bcom.moo.mytab
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.moo.mytab
+
+    SHA-1 certificate fingerprint:
+    3B:83:F2:72:A3:60:B2:B9:87:28:DF:44:CE:DB:66:84:94:1B:69:AD
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDBitwjcJZ4SwFS7u9zqBhoDXc3GTmXj_Q</string>
+</resources>
